@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Welcome to my Page Developers ##
 
-I am Mohammed Abdul Mughni Noman, I am and an Engineer from Hyderabad, India. I love building cool web pages and applications on Internet.  I'm a Self-starter and passionate student with experience in programming outside the university courses and ability to learn other coding languages as need. Aspiring to apply my technical knowledge gained from both the coursework and personal projects to solve real-world challenges. 
+I am Mohammed Abdul Mughni Noman, I am an Engineer from Hyderabad, India. I love building cool web pages and applications for the web.  I'm Self-driven and passionate learner with experience in programming outside the university courses and ability to learn other coding languages as need. Aspiring to apply my technical knowledge gained from both the coursework and personal projects to solve real-world challenges. 
 Here's a little more about me:
 
 
